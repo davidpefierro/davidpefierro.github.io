@@ -1,0 +1,25 @@
+body {
+    position: relative;
+    background-image: linear-gradient(to right, black, rgb(51, 48, 48));
+    color: white;
+}
+
+.logo {
+    width: 4%;
+}
+
+.index {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.carousel {
+    margin-left: 10%;
+    width: 560; 
+    height: 315;
+}
+
+.borde_texto_negro {
+    -webkit-text-stroke: 1.5px black;
+    color: white; 
+  }
